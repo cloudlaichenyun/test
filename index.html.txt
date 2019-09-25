@@ -1,8 +1,8 @@
 <html>
 <head>
-<titel>Hello Git</title>
+<titel>Hello Git update</title>
 </head>
 <body>
-	Hello Git
+	Hello Git update
 </body>
 </html>	
